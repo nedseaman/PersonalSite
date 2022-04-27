@@ -1,4 +1,4 @@
-baseURL: "https://seaman.eng/"
+baseURL: "https://seaman-eng.netlify.app/"
 title: Ned Seaman
 paginate: 5
 theme: PaperMod
