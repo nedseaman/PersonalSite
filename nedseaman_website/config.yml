@@ -29,7 +29,7 @@ params:
     description: "A personal website for Ned Seaman"
     keywords: [Blog, Portfolio]
     author: Ned Seaman
-    images: ["<link or path of image for opengraph, twitter-cards>"]
+    # images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
     defaultTheme: auto
     disableThemeToggle: false
@@ -53,7 +53,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there! My name is Ned."
-        Content: "I'm earning my bachelor's in **computer science** and **financial engineering** from WashU in St. Louis. I'm passionate **software engineering**, **music**, **board games**, and a host of other topics. Feel free to contact me or explore some of my hobbies!"
+        Content: "I'm earning my bachelor's in **computer science** and **financial engineering** from WashU in St. Louis. I'm passionate about **software engineering**, **music**, **board games**, and a host of other topics. Feel free to contact me or explore some of my hobbies!"
 
     socialIcons:
         - name: linkedin
